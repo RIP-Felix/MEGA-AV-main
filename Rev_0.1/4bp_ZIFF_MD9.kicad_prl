@@ -29,26 +29,8 @@
       "vias": true,
       "zones": true
     },
-    "visible_items": [
-      "vias",
-      "footprint_text",
-      "footprint_anchors",
-      "ratsnest",
-      "grid",
-      "footprints_front",
-      "footprints_back",
-      "footprint_values",
-      "footprint_references",
-      "tracks",
-      "drc_errors",
-      "drawing_sheet",
-      "bitmaps",
-      "pads",
-      "zones",
-      "drc_warnings",
-      "shapes"
-    ],
-    "visible_layers": "00000000_00000000_00000000_00000021",
+    "visible_items": [],
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,7 +41,7 @@
   },
   "meta": {
     "filename": "4bp_ZIFF_MD9.kicad_prl",
-    "version": 5
+    "version": 3
   },
   "net_inspector_panel": {
     "col_hidden": [

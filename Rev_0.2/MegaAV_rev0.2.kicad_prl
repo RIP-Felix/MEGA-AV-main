@@ -1,11 +1,11 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 7,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -48,7 +48,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffff",
+    "visible_layers": "00000000_00000000_00000000_00000080",
     "zone_display_mode": 0
   },
   "git": {
@@ -57,7 +57,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "4bp_REVA_MD9.kicad_prl",
+    "filename": "MegaAV_rev0.2.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -88,14 +88,14 @@
     "col_widths": [
       222,
       207,
-      136,
+      137,
       92,
-      136,
-      136,
-      136,
+      137,
+      137,
+      137,
       98,
-      136,
-      136
+      137,
+      137
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
