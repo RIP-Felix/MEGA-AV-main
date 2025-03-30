@@ -10183,7 +10183,7 @@
 				)
 			)
 		)
-		(property "Value" "5600p"
+		(property "Value" "1800p"
 			(at 265.938 113.538 90)
 			(effects
 				(font
@@ -19965,7 +19965,7 @@
 				)
 			)
 		)
-		(property "Value" "5600p"
+		(property "Value" "1800p"
 			(at 265.938 179.578 90)
 			(effects
 				(font
