@@ -1,4 +1,4 @@
-24740836791508084
+24761785187894709
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65848,13 +65848,104 @@ Yellow 5381 Series LED
 0
 2
 2
-Library
-SOP-24_7.5x15.4mm_P1.27mm
-SOP, 24 Pin (http://www.issi.com/WW/pdf/31FL3218.pdf#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOP SO
+LOGO_Library
+MEGA AV LOGO
+
+
 0
-24
-24
+0
+0
+LOGO_Library
+MegaAV Logo (Small)
+
+
+0
+0
+0
+LOGO_Library
+MegaAV Logo (med)
+
+
+0
+0
+0
+LOGO_Library
+MegaAV Logo 2
+
+
+0
+0
+0
+LOGO_Library
+RIP-Felix Logo(Small)
+
+
+0
+0
+0
+LOGO_Library
+Untitled
+
+
+0
+0
+0
+LOGO_Library
+Untitled_1
+
+
+0
+0
+0
+LOGO_Library
+Untitled_2
+
+
+0
+0
+0
+LOGO_Library
+Untitled_3
+
+
+0
+0
+0
+LOGO_Library
+Untitled_4
+
+
+0
+0
+0
+LOGO_Library
+Untitled_5
+
+
+0
+0
+0
+LOGO_Library
+Untitled_6
+
+
+0
+0
+0
+LOGO_Library
+Untitled_7
+
+
+0
+0
+0
+LOGO_Library
+Untitled_8
+
+
+0
+0
+0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -68522,20 +68613,13 @@ threaded screw
 0
 4
 1
-MyLibrary
-MD10SM-SS
+Mouse Bites
+mouse-bite-1mm-slot
 
 
 0
-13
-13
-MyLibrary
-MD90SM-MD2
-
-
 0
-12
-12
+0
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
