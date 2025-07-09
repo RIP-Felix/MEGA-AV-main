@@ -1,0 +1,1 @@
+Look over and fix silkscreen, it's currently set up using part numbers and internal sega nomenclature 
