@@ -16120,6 +16120,72 @@
 		)
 	)
 	(symbol
+		(lib_id "My_Library:SMD_Conn_01x01")
+		(at 207.01 179.07 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "30c26f21-1f5d-4931-ae21-963b9331ec8b")
+		(property "Reference" "SL3"
+			(at 204.724 177.038 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SMD_Conn_01x01"
+			(at 204.47 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 207.01 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 207.01 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a43df65c-a339-4f9f-bb23-b7cc59c25680")
+		)
+		(instances
+			(project "MegaAV_rev0.5"
+				(path "/672e6c7a-d310-45d1-a117-69a32c775d0f"
+					(reference "SL3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "3bpV2A_RevC-eagle-import:R-US_R0603")
 		(at 356.87 63.5 0)
 		(unit 1)
@@ -17751,6 +17817,72 @@
 				(path "/672e6c7a-d310-45d1-a117-69a32c775d0f"
 					(reference "U7")
 					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "My_Library:SMD_Conn_01x01")
+		(at 207.01 161.29 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "4815ae09-21f9-407a-aba4-517cd09f721b")
+		(property "Reference" "SR3"
+			(at 209.296 163.322 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SMD_Conn_01x01"
+			(at 209.55 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_1x2mm"
+			(at 207.01 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 207.01 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "018a5999-6a90-41c9-8d64-f4991c110f2d")
+		)
+		(instances
+			(project "MegaAV_rev0.5"
+				(path "/672e6c7a-d310-45d1-a117-69a32c775d0f"
+					(reference "SR3")
+					(unit 1)
 				)
 			)
 		)
