@@ -16163,7 +16163,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "2.9k"
 			(at 174.244 247.396 90)
 			(effects
 				(font
@@ -17747,7 +17747,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "3.6k"
 			(at 185.674 247.65 90)
 			(effects
 				(font
@@ -28338,7 +28338,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "9p"
+		(property "Value" "11p"
 			(at 325.882 60.706 90)
 			(effects
 				(font
@@ -30142,8 +30142,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1k"
-			(at 197.358 247.65 90)
+		(property "Value" "820"
+			(at 196.3277 247.6768 90)
 			(effects
 				(font
 					(size 1.778 1.5113)
