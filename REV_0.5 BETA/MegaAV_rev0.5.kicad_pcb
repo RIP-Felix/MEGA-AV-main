@@ -36038,7 +36038,7 @@
 	(footprint "LOGO_Library:MegaAV Logo 2"
 		(layer "B.Cu")
 		(uuid "b1656478-d370-42ae-8585-ed5303d529bb")
-		(at 182.45 122.55 90)
+		(at 179.35 122.65 90)
 		(property "Reference" "G***"
 			(at 0 0 90)
 			(layer "B.SilkS")
@@ -36947,8 +36947,8 @@
 		(uuid "ff606298-483d-478f-a248-57ab462e0dad")
 	)
 	(gr_line
-		(start 199.45 121.25)
-		(end 199.55 133.8)
+		(start 196.25 121.225)
+		(end 196.35 133.775)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -36957,7 +36957,7 @@
 		(uuid "084459d8-9e17-43d7-a5c9-6e6b6f047579")
 	)
 	(gr_line
-		(start 191.25 106.3)
+		(start 188.05 106.3)
 		(end 198.9 106.25)
 		(stroke
 			(width 0.1)
@@ -36997,8 +36997,8 @@
 		(uuid "5157ef6c-20b5-4e3c-81bf-6f3ae20ec926")
 	)
 	(gr_line
-		(start 193.05 133.8)
-		(end 193.05 118.4)
+		(start 189.9 133.9)
+		(end 189.9 118.5)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -37018,7 +37018,7 @@
 	)
 	(gr_line
 		(start 218.85 134.05)
-		(end 191.2 134.2)
+		(end 188 134.2)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -37027,8 +37027,8 @@
 		(uuid "afcfe977-3180-4612-a712-54d51a0e20c9")
 	)
 	(gr_line
-		(start 207.55 133.75)
-		(end 207.55 122.2)
+		(start 204.35 133.775)
+		(end 204.35 122.225)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -37047,8 +37047,8 @@
 		(uuid "b44f28d3-2708-4a4f-a338-2c762acc05b3")
 	)
 	(gr_line
-		(start 191.2 134.2)
-		(end 191.25 106.3)
+		(start 188 134.2)
+		(end 188.05 106.3)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -37057,8 +37057,8 @@
 		(uuid "ccd02082-7f40-49b8-b7a3-de06645a5180")
 	)
 	(gr_line
-		(start 217.1 120.2)
-		(end 217.25 133.95)
+		(start 217.1 119.5)
+		(end 217.25 133.25)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -37641,8 +37641,8 @@
 			(justify left mirror)
 		)
 	)
-	(gr_text "JUMPER SETTINGS:\nMD1 VA0-VA6.8: c, 1\nMD1 VA7, MD2 VA3-VA4: a, 2\nMD2 VA0-VA1.8/MD3: a, d, 2 \nMD2 VA2-VA2.3 b, 1\n\nREGION SELECT:\nBridge PAL Or NTSC Jumper\n\nIf you LIFTED RGB Legs: MD1PU\n\nHEADPHONE OUT:\nMD1 VA0-VA6.8: Y\nMD1 VA7, CDX, NOMAD, MEGA JET: Z\n\nNO HEADPHONE OUT:\nMD1 VA7: SHORT HP P1 AND HP P2"
-		(at 191.6 134.05 270)
+	(gr_text " JUMPER SETTINGS:\nMD1 VA0-6.8: 1 C\nMD1 VA7, MD2 VA3: 2 C\nMD2 VA0-1.8: 2 C D\nMD2 VA2-2.3: 1 B\nMD2 VA4: 2 A\nMD3: 2 A D\n\nREGION SELECT:\nBridge PAL Or NTSC Jumper\n\nIf you LIFTED RGB Legs: MD1PU\n\nHEADPHONE OUT:\nMD1 VA0-VA6.8: Y\nMD1 VA7, CDX, NOMAD, MEGA JET: Z\n\nNO HEADPHONE OUT:\nY & SHORT HP P1 AND HP P2"
+		(at 188.4 134.15 270)
 		(layer "B.SilkS")
 		(uuid "5b34d846-7608-4bf1-995e-7054db1ffc03")
 		(effects
