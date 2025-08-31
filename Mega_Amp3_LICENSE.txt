@@ -1,0 +1,38 @@
+Mega Amp 3 License
+Copyright (c) 2025
+Ace9921 (Lead Designer), RipFelix, RGBeter, Villahed94
+
+Permission is hereby granted to any person obtaining a copy of this
+schematic and associated design files (the “Design”) to use, study, copy,
+and share the Design, subject to the following conditions:
+
+1. Attribution
+   Any commercial use of this Design must provide clear attribution to the
+   "Mega Amp 3" project and its authors:
+   - Ace (Lead Designer)
+   - RIP-Felix
+   - RGBeter
+   - Villahed94
+
+   Attribution must be visible in product descriptions, documentation,
+   or silkscreen where reasonably possible.
+
+2. Commercial Modifications
+   - Commercially sold derivative designs that alter the Mega Amp 3
+     circuit may not be marketed or distributed under the name "Mega Amp 3"
+     unless explicit written permission is granted by Ace9921.
+   - Hobbyist and non-commercial modifications are permitted. Consoles
+     or projects incorporating such modifications may be resold in good
+     faith, provided they are not represented as an official or
+     unmodified Mega Amp 3.
+
+3. Distribution
+   Redistribution of this Design, whether modified or unmodified, must
+   include this license.
+
+4. Disclaimer
+   THE DESIGN IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY ARISING FROM THE USE OF THE DESIGN.

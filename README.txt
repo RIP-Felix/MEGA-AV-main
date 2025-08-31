@@ -1,6 +1,3 @@
-# MegaAV
-Sega Genesis audio and video bypass, incorporating a new Mega Amp 3 design that restores mono audio, along with native composite and S-video generation.
-
 Attribution: Credit where Credit's due
 
 Timeline of events:
@@ -17,28 +14,3 @@ So the Mega AV is actually 2 mods in one. The Mega Video developed by RIP-Felix,
  
 NOTEs:
 - Fujitsu ASICs, 315-5708-01 and 315-5660-01 needed an additional pulldown resistor. Instead of bridging jumper C, solder a 200Ohm 1% or lower tolerance resistor to it. May apply to Model 1 VA7 through Model 2 VA1.8. The Suffix -01 indicates it's a Fujitsu Chip. This DOES NOT apply to chips LACKING the suffix "-01".
-- Adds a ZIF connector for a future ribbon cable design to greatly simplify installation
-
-(instructions pending, same as 3bp install except composite and mono must also be isolated from the din, and the subcarrier line must be routed to the MegaAV)
-### When routing the subcarrier line, make sure it's a shielded coaxial cable or twisted pair to prevent jailbars
-
-Instructions pending:
-## Model 1 Installation Guides
-[Model 1 - VA1-VA6]
-[Model 1 - VA7]
-## Model 2 Installation Guides
-[Model 2 - VA0-1.8]
-[Model 2 - VA2]
-[Model 2 - VA2.3] (needed)
-[Model 2 - VA3]
-[Model 2 - VA4]
-
-## Model 3 Installation Guides
-[Model 3 - VA1] (needed)
-[Model 3 - VA2] (needed)
-
-## Sega CDX
-[CDX]
-
-## Other
-[Other forms of Genesis]
