@@ -1,5 +1,5 @@
 # MegaAV
-Sega Genesis audio and video bypass, incorporating a new Mega Amp 3 design that restores mono audio, along with native composite and S-video generation.
+Sega Genesis audio and video bypass, incorporating an entirely new audio circuit design that restores mono audio, along with native composite and S-video generation.
 
 Attribution: Credit where Credit's due
 
@@ -8,7 +8,7 @@ ACE9921 & Villahed94 developed the original Mega Amp 1.0. Inception for a mod bo
 
 Zaxour forked the 3BPv2 to support Composite restore with the 3BPV2+ and is continuing development of a Quadruple Bypass that will support S-video.
 
-For most of the 6 years between the Mega Amp 2.0 and 3.0, Ace was pretty much developing alone. Villahed94, eep386, and ACE9921 were throwing ideas around, but nobody except Ace was doing anything. I want to make it clear that the Mega Amp 3 is it's own standalone thing and that the Mega Audio is NOT to be confused with it. ACE is not associated with the MegaAV.
+For most of the 6 years between the Mega Amp 2.0 and 3.0, Ace was pretty much developing alone. Villahed94, eep386, and ACE9921 were throwing ideas around, but nobody except Ace was doing anything. I want to make it clear that the Mega Amp 3 is it's own standalone thing and that the Mega Audio is NOT to be confused with it. Ace is not associated with the MegaAV.
 
 While they may use similar circuit topology, their goals are different, and they must not be used interchangeably
 
