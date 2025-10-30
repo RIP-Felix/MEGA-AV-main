@@ -1,6 +1,6 @@
 Mega AV License (CERN-OHL-S v2.0 with attribution notice)
 
-Copyright (c) 2025 RIP-Felix (Lead Designer), RGBeter, ACE9921, & Villahed94
+Copyright (c) 2025 RIP-Felix (Lead Designer), RGBeter & Villahed94
 
 This source describes Open Hardware and is licensed under the CERN-OHL-S v2.0.
 
@@ -12,7 +12,7 @@ Conditions:
 1. Any redistribution, modification, or derivative work must retain this notice
    and remain licensed under the CERN-OHL-S v2.0.
 2. Attribution must be given to the original "Mega AV" project and to its
-   authors, RIP-Felix, RGBeter, ACE9921, & Villahed94, in documentation, silkscreen, or product descriptions.
+   authors, RIP-Felix, RGBeter & Villahed94, in documentation, silkscreen, or product descriptions.
 3. Commercial use and sale of products based on this work is permitted,
    provided the above conditions are met and the license remains intact.
 
