@@ -20,21 +20,6 @@ This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
 INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
 PARTICULAR PURPOSE.
 
-Note on Audio Section:
-This project incorporates the "Mega Amp 3" circuit design, which is licensed
-under a separate "Mega Amp 3 License."
-
-- Commercial use of Mega Amp 3 requires attribution to Ace (Lead Designer),
-  RipFelix, RGBeter, and Villahed94.
-- Commercial derivatives that modify Mega Amp 3 may not be marketed or
-  distributed under the name "Mega Amp 3" unless explicit written permission
-  is granted by Ace9921.
-- Hobbyist and non-commercial modifications are permitted. Consoles or
-  projects incorporating such modifications may be resold in good faith,
-  provided they are not represented as an official or unmodified Mega Amp 3.
-
-See /Mega_Amp3_LICENSE for full details.
-
 ----------------------------------------------------------------------
 Below is the complete legal text of the CERN-OHL-S v2.0
 ----------------------------------------------------------------------

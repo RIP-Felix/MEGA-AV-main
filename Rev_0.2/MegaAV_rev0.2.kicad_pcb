@@ -34658,7 +34658,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Dev Team:\nvillahed94\nACE9921\nRGBeter\n"
+	(gr_text "Dev Team:\nvillahed94\nRGBeter\n"
 		(at 261.25 106.75 0)
 		(layer "B.SilkS")
 		(uuid "825c5569-add1-4f57-92ce-25cfa135f9ff")
