@@ -1,7 +1,7 @@
 Attribution: Credit where Credit's due
 
 Timeline of events:
-ACE9921 & Villahed94 developed the original Mega Amp 1.0. Inception for a mod board that combines the Mega Amp with an RGB video amplifier was Bob from RetroRGB's idea. Rene from db Electronics designed the first build. Tienfeng designed the second with a modified version of the original Mega Amp, which we're calling the Mega Amp 2.0. Jose Cruz helped with testing. That became the Triple Bypass v2.
+For most of the 6 years between the Mega Amp 2.0 and 3.0, Ace was pretty much developing alone. Villahed94, eep386, and ACE9921 were throwing ideas around, but nobody except Ace was doing anything. I want to make it clear that the Mega Amp 3 is it's own standalone thing still in development and that the Mega Audio is NOT to be confused with it. Ace is not associated with the MegaAV.
 
 Zaxour forked the 3BPv2 to support Composite restore with the 3BPV2+ and is continuing development of a Quadruple Bypass that will support S-video.
 
