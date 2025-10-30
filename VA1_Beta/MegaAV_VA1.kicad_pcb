@@ -127,6 +127,7 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
+			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -38950,8 +38951,8 @@
 		(uuid "084459d8-9e17-43d7-a5c9-6e6b6f047579")
 	)
 	(gr_line
-		(start 202 136)
-		(end 202 143.45)
+		(start 201.15 136.075)
+		(end 201.15 143.525)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -39638,7 +39639,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Dev Team:\nVillahed94\nAce9921\nRGBeter\n"
+	(gr_text "Dev Team:\nVillahed94\nRGBeter\n"
 		(at 200.3 143.5 270)
 		(layer "B.SilkS")
 		(uuid "7b13721a-f9aa-48c9-b3bd-bc7e50e92974")
