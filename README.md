@@ -8,7 +8,7 @@ ACE9921 & Villhed94 developed the original Mega Amp 1.0. Inception for a mod boa
 
 Zaxour forked the 3BPv2 to support Composite restore with the 3BPV2+ and is continuing development of a Quadruple Bypass that will support S-video.
 
-For most of the 6 years between the Mega Amp 2.0 and 3.0, Ace was pretty much developing alone. Villahed94, eep386, and ACE9921 were throwing ideas around, but nobody except Ace was doing anything. I want to make it clear that the Maga Amp 3 is it's own standalone thing and that the Mega AV incorporates it. 
+For most of the 6 years between the Mega Amp 2.0 and 3.0, Ace was pretty much developing alone. Villahed94, eep386, and ACE9921 were throwing ideas around, but nobody except Ace was doing anything. I want to make it clear that the Maga Amp 3 is it's own standalone thing and that the Mega Audio is NOT to be confused with it. ACE is not associated with the MegaAV. 
 
 RIP-Felix incepted the idea of restoring Mono Audio for RF compatibility. RGBeter incepted the idea of recreating Composite video using a modern encoder, taking the opportunity to fix the luma trap. At that point it was still a derivative work of the 3BPV2+. Villhed94 agreed to join the MegaAV team to finish and implement the Mega Audio for both inboard and MegaAV mod board installations. The three of us tested and refined finalized values, and implemented the designs together. Both RIP-Felix and RGBeter designed the MegaAV PCB. The only part of the circuit that has remained unchanged is the THS7374 RGB amplifier. 
 
