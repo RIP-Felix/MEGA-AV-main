@@ -499,7 +499,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "PCBA Files/GERBER/",
+      "plot": "PCBA Files/",
       "pos_files": "PCBA Files/",
       "specctra_dsn": "",
       "step": "",
@@ -527,14 +527,14 @@
       "fields_ordered": [
         {
           "group_by": true,
-          "label": "Comment",
-          "name": "Value",
+          "label": "Designator",
+          "name": "Reference",
           "show": true
         },
         {
-          "group_by": false,
-          "label": "Designator",
-          "name": "Reference",
+          "group_by": true,
+          "label": "Comment",
+          "name": "Value",
           "show": true
         },
         {
@@ -615,7 +615,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Value"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {

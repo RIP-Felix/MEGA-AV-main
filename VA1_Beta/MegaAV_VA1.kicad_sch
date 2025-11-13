@@ -7413,6 +7413,12 @@
 		(uuid "33d59b06-8b28-454c-ba68-2a413d5bd3a4")
 	)
 	(junction
+		(at 265.43 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "341ab9a9-c788-41f1-bae4-c4097c04c531")
+	)
+	(junction
 		(at 69.85 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7755,12 +7761,6 @@
 		(uuid "b1936c54-96be-4165-908e-f92d3c497dfa")
 	)
 	(junction
-		(at 265.43 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b1f0783f-35a1-4988-a4b3-5715607ce490")
-	)
-	(junction
 		(at 251.46 250.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7879,6 +7879,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de8d7337-583a-4f34-93ee-a090a59c2a02")
+	)
+	(junction
+		(at 261.62 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4201dde-0d0b-4790-a950-7a0b9291bff9")
 	)
 	(junction
 		(at 48.26 229.87)
@@ -9291,16 +9297,6 @@
 			(type default)
 		)
 		(uuid "37023130-d254-42ad-aa0b-fc90681868c5")
-	)
-	(wire
-		(pts
-			(xy 265.43 74.93) (xy 265.43 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "371985ac-87bc-4945-9b9a-1f991db280e5")
 	)
 	(wire
 		(pts
@@ -11154,6 +11150,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 77.47) (xy 265.43 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bb4e324-dfb6-40ab-b814-b51c628a8e3e")
+	)
+	(wire
+		(pts
 			(xy 167.64 68.58) (xy 167.64 73.66)
 		)
 		(stroke
@@ -11281,6 +11287,16 @@
 			(type default)
 		)
 		(uuid "a15ce2cc-42a8-4d94-a11c-a1dce923fb19")
+	)
+	(wire
+		(pts
+			(xy 265.43 85.09) (xy 261.62 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a23cf9aa-a792-4bbf-b4ce-68e7d0d21bcf")
 	)
 	(wire
 		(pts
@@ -12174,6 +12190,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 74.93) (xy 265.43 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfe55083-c901-4372-9b01-6f6a3ccbc1b7")
+	)
+	(wire
+		(pts
 			(xy 306.07 102.87) (xy 312.42 102.87)
 		)
 		(stroke
@@ -12511,16 +12537,6 @@
 			(type default)
 		)
 		(uuid "f25745ca-57fb-4c39-95cc-1dad1d868e51")
-	)
-	(wire
-		(pts
-			(xy 265.43 77.47) (xy 265.43 78.486)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f27ad6a6-f53d-40ca-8709-a020a0ac9c03")
 	)
 	(wire
 		(pts
@@ -16245,7 +16261,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4070"
+		(property "Value" "CD4070"
 			(at 86.36 244.348 0)
 			(effects
 				(font
@@ -16858,6 +16874,75 @@
 			(project "4bp_REVA_MD9"
 				(path "/672e6c7a-d310-45d1-a117-69a32c775d0f"
 					(reference "#SUPPLY03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "3bpV2A_RevC-eagle-import:R-US_R0603")
+		(at 261.62 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2708479f-0117-44d0-b51e-736114bb6e01")
+		(property "Reference" "R72"
+			(at 260.35 77.47 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "47k"
+			(at 260.35 80.01 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 261.62 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 261.62 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3538c6e6-7b82-4db5-804d-cdc07515a2db")
+		)
+		(pin "2"
+			(uuid "44b5d7b8-fa00-4273-9473-6f924101c5b1")
+		)
+		(instances
+			(project "MegaAV_VA1"
+				(path "/672e6c7a-d310-45d1-a117-69a32c775d0f"
+					(reference "R72")
 					(unit 1)
 				)
 			)
@@ -23244,7 +23329,7 @@
 				)
 			)
 		)
-		(property "Value" "4070"
+		(property "Value" "CD4070"
 			(at 29.7769 227.3459 0)
 			(effects
 				(font
@@ -24395,6 +24480,73 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 257.81 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "95dec4b0-10df-4a4c-8015-f1647fdf8027")
+		(property "Reference" "SA1"
+			(at 259.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 257.81 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 257.81 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 257.81 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 257.81 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "acc5ea79-37e6-4d1f-9b66-bf37e77ab3e1")
+		)
+		(pin "1"
+			(uuid "68bc4326-520a-41bd-b57a-5f5aebe9defd")
+		)
+		(instances
+			(project "MegaAV_VA1"
+				(path "/672e6c7a-d310-45d1-a117-69a32c775d0f"
+					(reference "SA1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 109.22 35.56 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25134,6 +25286,71 @@
 			(project "MegaAV_rev0.5"
 				(path "/672e6c7a-d310-45d1-a117-69a32c775d0f"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 254 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9e16c525-f779-4e25-99df-cb077e78254d")
+		(property "Reference" "#PWR054"
+			(at 254 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 254 71.374 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 254 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a816c301-c1ef-46f6-98b7-fa493f98d97e")
+		)
+		(instances
+			(project "MegaAV_VA1"
+				(path "/672e6c7a-d310-45d1-a117-69a32c775d0f"
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -26284,7 +26501,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 265.43 78.486 0)
+		(at 265.43 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26292,7 +26509,7 @@
 		(dnp no)
 		(uuid "b277f1d0-8009-4f91-8e5c-46091f2bed7d")
 		(property "Reference" "#PWR053"
-			(at 265.43 84.836 0)
+			(at 265.43 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26301,7 +26518,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 265.43 82.55 0)
+			(at 265.43 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26309,7 +26526,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 265.43 78.486 0)
+			(at 265.43 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26318,7 +26535,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 78.486 0)
+			(at 265.43 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26327,7 +26544,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 265.43 78.486 0)
+			(at 265.43 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27099,7 +27316,7 @@
 				)
 			)
 		)
-		(property "Value" "4070"
+		(property "Value" "CD4070"
 			(at 67.0052 109.22 0)
 			(effects
 				(font
@@ -30728,15 +30945,15 @@
 		(fields_autoplaced yes)
 		(uuid "f2294e46-2216-4b6f-bb17-d214e490090e")
 		(property "Reference" "U1"
-			(at 144.6216 90.334 0)
+			(at 144.6216 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "4070"
-			(at 144.6216 92.874 0)
+		(property "Value" "CD4070"
+			(at 144.6216 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31524,7 +31741,7 @@
 				)
 			)
 		)
-		(property "Value" "4070"
+		(property "Value" "CD4070"
 			(at 29.6738 242.9624 0)
 			(effects
 				(font
