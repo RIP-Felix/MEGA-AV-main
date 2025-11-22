@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "9.0.0"
     },
-    "CreationDate": "2025-11-19T20:28:37-08:00"
+    "CreationDate": "2025-11-21T18:56:48-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "MegaAV_CE",
-      "GUID": "4d656761-4156-45f4-9345-2e6b69636164",
+      "Name": "MegaAV_CE_VA0",
+      "GUID": "4d656761-4156-45f4-9345-5f5641302e6b",
       "Revision": "rev?"
     },
     "Size": {
@@ -33,8 +33,8 @@
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.2,
       "TrackToRegion": 0.2,
@@ -43,57 +43,57 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "MegaAV_CE-F_Cu.gbr",
+      "Path": "MegaAV_CE_VA0-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MegaAV_CE-In1_Cu.gbr",
+      "Path": "MegaAV_CE_VA0-In1_Cu.gbr",
       "FileFunction": "Copper,L5,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MegaAV_CE-In2_Cu.gbr",
+      "Path": "MegaAV_CE_VA0-In2_Cu.gbr",
       "FileFunction": "Copper,L7,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MegaAV_CE-B_Cu.gbr",
+      "Path": "MegaAV_CE_VA0-B_Cu.gbr",
       "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MegaAV_CE-F_Paste.gbr",
+      "Path": "MegaAV_CE_VA0-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MegaAV_CE-B_Paste.gbr",
+      "Path": "MegaAV_CE_VA0-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MegaAV_CE-F_Silkscreen.gbr",
+      "Path": "MegaAV_CE_VA0-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MegaAV_CE-B_Silkscreen.gbr",
+      "Path": "MegaAV_CE_VA0-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MegaAV_CE-F_Mask.gbr",
+      "Path": "MegaAV_CE_VA0-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "MegaAV_CE-B_Mask.gbr",
+      "Path": "MegaAV_CE_VA0-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "MegaAV_CE-Edge_Cuts.gbr",
+      "Path": "MegaAV_CE_VA0-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
