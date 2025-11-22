@@ -13081,7 +13081,7 @@
 		)
 		(uuid "ffbd5df1-af25-49c8-9fb3-edde825adbe2")
 	)
-	(label "NTSC{slash}PAL"
+	(label "REGION"
 		(at 339.598 213.106 0)
 		(effects
 			(font
@@ -13701,7 +13701,7 @@
 		)
 		(uuid "cee97477-ad12-4bdf-b682-8f0b076dec8a")
 	)
-	(label "NTSC{slash}PAL"
+	(label "REGION"
 		(at 253.1837 44.45 0)
 		(effects
 			(font
@@ -15043,7 +15043,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 219.4052 83.82 0)
 			(effects
 				(font
@@ -15716,7 +15716,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
 			(at 78.74 120.015 0)
 			(effects
 				(font
@@ -31445,7 +31445,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
 			(at 321.818 215.011 0)
 			(effects
 				(font
@@ -32147,7 +32147,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd5058d2-04ec-49d9-93e9-82a4ece06f4e")
-		(property "Reference" "NTSC/PAL1"
+		(property "Reference" "REGION1"
 			(at 235.4705 42.6996 0)
 			(effects
 				(font
@@ -32197,7 +32197,7 @@
 		(instances
 			(project "MegaAV_VA1"
 				(path "/672e6c7a-d310-45d1-a117-69a32c775d0f"
-					(reference "NTSC/PAL1")
+					(reference "REGION1")
 					(unit 1)
 				)
 			)

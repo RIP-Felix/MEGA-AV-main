@@ -23741,7 +23741,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 318.9958 204.126 0)
 			(effects
 				(font
@@ -24073,7 +24073,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd5058d2-04ec-49d9-93e9-82a4ece06f4e")
-		(property "Reference" "REGION"
+		(property "Reference" "REGION1"
 			(at 124.8295 87.2786 0)
 			(effects
 				(font
@@ -24123,7 +24123,7 @@
 		(instances
 			(project "MegaAV_CE"
 				(path "/672e6c7a-d310-45d1-a117-69a32c775d0f"
-					(reference "REGION")
+					(reference "REGION1")
 					(unit 1)
 				)
 			)
